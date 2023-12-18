@@ -850,7 +850,6 @@ h1.entry-title {
   margin-right: auto;
   margin-left: auto;
   position: relative;
-  gap: 50px;
 }
 @media (max-width: 1024px) {
   .elementor-section .elementor-container {
